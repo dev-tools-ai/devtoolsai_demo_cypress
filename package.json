@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dev-tools-ai/devtoolsai_demo_cypress#readme",
   "dependencies": {
-    "@devtools-ai/cypress-sdk": "^0.1.5",
+    "@devtools-ai/cypress-sdk": "^0.1.10",
     "cypress": "^10.8.0"
   }
 }
